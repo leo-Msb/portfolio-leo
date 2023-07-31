@@ -2,7 +2,7 @@
   "name": "leo-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://leo-msb.github.io/portfolio-leo",
+  "homepage": "https://leo-msb.github.io/portfolio-leo",
   "type": "module",
   "scripts": {
     "dev": "vite",
