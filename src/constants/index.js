@@ -117,7 +117,7 @@ const experiences = [
     company_name: 'Développeur Web Formation',
     icon: dcc,
     iconBg: '#333333',
-    date: 'dec 2022 - aout 2023',
+    date: '',
   },
 ];
 

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
 import { leo, bwmap, worldmap } from '../assets';
-import './hero.css';
+
 
 const Hero = () => {
   return (
@@ -58,7 +58,7 @@ const Hero = () => {
         </div>
 
         <div
-          className="absolute xs:bottom-10 bottom-32 w-full 
+          className="absolute xs:bottom-10 bottom-10 w-full 
           flex justify-center items-center">
           <a href="#about">
             <div
